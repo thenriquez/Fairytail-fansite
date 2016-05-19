@@ -23,7 +23,7 @@ body {
   width:900px;
   margin:0 auto;
 }
-.thumbnail{
+.service-box{
   width:33%;
   float:left;
   padding:0 3px;
@@ -31,7 +31,7 @@ body {
 .imgSection{
   position:relative;
 }
-.thumbnail img{
+.thumbnai img{
   display:block;
   width:100%;
   height:auto
